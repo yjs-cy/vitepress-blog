@@ -4,6 +4,7 @@ import {sidebar} from './sidebars.js'
 
 export default defineConfig({
   title: "麋鹿的博客",//左上角的名称
+  base:'/vitepress-blog/',
   head:[
     ['link', { rel: 'icon', href: '/logo.png' }]//页签上的logo
   ],
