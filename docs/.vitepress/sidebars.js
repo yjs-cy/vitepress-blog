@@ -21,6 +21,7 @@ export const sidebar= {
       items:[
         {text:'开发环境配置',link:'/typescript/掘金学习笔记/ts开发环境搭配'},
         {text:'原始类型和对象类型',link:'/typescript/掘金学习笔记/原始类型和对象类型'},
+        {text:'函数类型与重载',link:'/typescript/掘金学习笔记/函数类型与重载'},
       ]
     }
   ]

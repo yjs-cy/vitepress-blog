@@ -1,7 +1,7 @@
 ---
 layout: home
-title: 嘿，朋友
-titleTemplate: 终于等到你
+title: 麋鹿
+titleTemplate: 笔记
 editLink: true
 lastUpdated: true
 hero:
