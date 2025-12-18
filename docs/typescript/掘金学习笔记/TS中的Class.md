@@ -95,5 +95,4 @@ let name=DateUtil.getName();
 console.log(name);
 ```
 
-## 今日结语
->你的专注力像磁铁，知识全被你吸走啦！
+## END！
